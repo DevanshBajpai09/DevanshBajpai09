@@ -142,7 +142,7 @@ Feature-rich messaging app with end-to-end encryption and media sharing
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevanshBajpai09/DevanshBajpai09/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DevanshBajpai09/DevanshBajpai09/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center"> 
