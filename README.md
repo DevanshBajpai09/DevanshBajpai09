@@ -104,12 +104,6 @@
 - Led development of a scalable dashboard system with real-time data visualization
 - Implemented secure authentication flows using JWT and OAuth
 
-### Full Stack Developer – Asambhav Solutions (June 2025 - Present)
-- Leading development of enterprise-grade web applications
-- Architecting microservices-based solutions with containerization
-- Implementing AI/ML features using OpenAI and custom LLMs
-- Mentoring junior developers and conducting code reviews
-
 ---
 
 ## 🌟 Featured Projects
