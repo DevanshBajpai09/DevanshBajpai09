@@ -98,7 +98,7 @@
 - Implemented responsive design principles across all components
 - Collaborated with UX team to enhance user interactions
 
-### Software Developer Intern – Vijetha Softwares (Feb 2025 - June 2025)
+### Software Developer Intern – Vijetha Softwares (april 2025 - June 2025)
 - Built a Full-Stack web application with robust backend integration
 - Optimized server response times by 35% through query optimization
 - Led development of a scalable dashboard system with real-time data visualization
